@@ -1,4 +1,4 @@
-# SegNet 用作卫星堆料分割,数据集
+# SegNet 用作卫星堆料分割
 https://github.com/zonghaofan/Segnet
 
 ## Environments
